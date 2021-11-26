@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.uk-card{
+    border: 1px solid black;
+    width: 90%;
+}
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-top: 70px;
+}
+.img2:hover{
+    transform: scale(0.8);
+}
+img:hover{
+    transform: scale(0.8);
+}
+.img2{
+    position: relative;
+    left: 700px;
+}
